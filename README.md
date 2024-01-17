@@ -7,7 +7,7 @@ Created by Cristian Tesa (40157750)
 Requirements to run the game:
 - Install Cinemachine package
 - Install TextMeshPro package
-- Install Ink Integrition for Unity
+- Install Ink Integration for Unity
 
 Player Movement:
 - Use the A and D keys to move left and right
